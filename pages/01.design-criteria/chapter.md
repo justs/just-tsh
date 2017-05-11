@@ -1,0 +1,45 @@
+---
+title: 'Design Criteria'
+---
+
+# <center>TRILOGY SPA HOLDINGS</center>
+
+## <center>DESIGN CRITERIA</center> 
+###### <center>_MAY 2017_</center>
+
+![](brand.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_THE INFORMATION CONTAINED IN THIS DOCUMENT IS PROPRIETARY TO AND PROPERTY OF TRILOGY SPA HOLDINGS.  THE INFORMATION HEREIN IS CONFIDENTIAL AND SHOULD NOT BE DISCLOSED TO ANY THIRD PARTY, WITHOUT THE PRIOR WRITTEN CONSENT OF TRILOGY SPA HOLDINGS._
