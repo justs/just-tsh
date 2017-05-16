@@ -1,6 +1,5 @@
 ---
 title: 'Pillars of Wellness'
-theme: antimatter
 ---
 
 ## The Five Pillars
