@@ -2,7 +2,7 @@
 title: 'Pillars of Wellness'
 ---
 
-## The Five Pillars
+# The Five Pillars
 The Five Pillars is a philosophy that inspires the exceptional; design, menu, programming, service and quality of the Trilogy brand.  These essential elements  of health and beauty soothe your soul and energise your spirit.
 
 |    |    |
