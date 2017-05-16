@@ -2,9 +2,9 @@
 title: Resources
 ---
 
-## Introduction and Resources 
+<center>## Introduction and Resources 
 [ui-tabs position="top-left" active="0" theme="lite"]
-[ui-tab title="Introduction"]
+[ui-tab title="Introduction"]</center>
 
 This document serves as the official design criteria for all Trilogy spas. It is intended as a resource to establish and maintain design consistency across all facilities. Parties involved in the creation or design of a Trilogy spa must adhere to the rules set forth within this guide. Individual project constraints and/or regional market conditions may make meeting these guidelines unfeasible and will require deviations from these criteria. If deviations are required consult with your Trilogy representative for approval. Prior to relying on or implementing the design standards, verify that this edition is current and contains the latest updates.
 
